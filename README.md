@@ -20,5 +20,5 @@ Source: Kaggle – Instagram Analytics Dataset
 
 ## Authors
 Aisha Hariz
-Malak Omri
+Malek Omri
 Rihem Abdelmoumen
